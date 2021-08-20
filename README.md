@@ -9,3 +9,7 @@ Next a function was defined to remove the stopwords from the twitter reviews usi
 Then the dataset was visualized using wordcloud.
 
 Then 2 functions were defined to perform subjectivity and polarity on the tweets. And based on the on the polarity of the tweet, it was classified into Positive, Negative or Neutral.
+
+
+## I do not own this dataset. All rights on this dataset goes to Youth India Foundation E-School.
+## Make sure to give reference and credits to the owner.
