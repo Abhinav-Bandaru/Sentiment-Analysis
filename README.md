@@ -12,4 +12,4 @@ Then 2 functions were defined to perform subjectivity and polarity on the tweets
 
 
 ## I do not own this dataset. All rights on this dataset goes to Youth India Foundation E-School.
-## Make sure to give reference and credits to the owner.
+## Make sure to give reference and credits to the owner, in case you use it.
